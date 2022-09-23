@@ -1,5 +1,5 @@
 # Projeto Calculadora Térmica
-Este programa desenvolvido em C verifica a necessidade da utilização de uma dissipador de calor em um diodo de potência, realiza o projeto e indica qual modelo de dissipador deve ser usado.
+Este programa desenvolvido em C verifica a necessidade da utilização de uma dissipador de calor em um diodo de potência, realiza o projeto e indica qual modelo de dissipador deve ser usado. Para outras informações, favor consultar o descritivo do programa que esta em anexo.
  Segue abaixo um vídeo com um exemplo de aplicação da calculadora.
 
 
